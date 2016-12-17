@@ -13,3 +13,10 @@ dessa forma quando for necessário distribuir o projeto na vai ser necessário b
 
 #O utilitario nodemon também está sendo usado
       npm install -g nodemon
+
+      obs: para iniciar a aplicação node agora, uso o comando 'nodemon app.js', 
+      com isso o node mon vai reiniciar o servidor automaticamente sempre que houver alguma alteração na estrutura do projeto.
+      
+#Instalação do driver de conexão com o mysql
+      npm install mysql --save
+      (obs: não instalei o mysql, vou tentar usar um outro utilitario de banco de dados mais leve)
