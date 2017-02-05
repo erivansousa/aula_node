@@ -20,3 +20,5 @@ dessa forma quando for necessário distribuir o projeto na vai ser necessário b
 #Instalação do driver de conexão com o mysql
       npm install mysql --save
       (obs: não instalei o mysql, vou tentar usar um outro utilitario de banco de dados mais leve)
+
+#######teste#######
